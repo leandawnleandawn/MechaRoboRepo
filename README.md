@@ -46,20 +46,23 @@ Linear Algebra is the study of numbers represented in a linear space. This has g
 Transform Theory in mathematics is the study of different transforms of functions. Can be a co-requisite to Calulus 3, and Linear Algebra. This subject has application when studying Control Systems and Signal Systems Processing. This Subject will only tackle the Fourier Transform, Laplce Transform, and z-transform.
 
 ### Core Engineering Sciences
-Engineering Sciences are the following subjects that compliment to the fundamentals of the program Mechatronics and Robotics Engineering. It is mainly composed of
+Engineering Sciences are the following subjects that compliment to the fundamentals of the program Mechatronics and Robotics Engineering. It is mainly composed of different Subfield of Mechatronics - Mainly the Mechanical, Electrical and Electronics, Computer Science and Engineering, and Control Engineering. Once mastered, it creates a way to understand the fundamentals of the Mechatronics.
 
 #### Electrical and Electronics
-
+This subjects covers the Electrical and Electronics part of Mechatronics Systems.
 ##### DC Circuit Analysis
+It started when the discovery of the electricity takes place. In this subject, direct current electricity will be analyzed with the Fundamentals Laws: Kirchoff's Current and Kirchoff's Voltage Laws. We will cover the Application of Kirchoff's Laws in Node and Mesh Analysis, and the shortcut methods or theorems. In this subject, reactive components such as capacitors and inductors used in Transient Analysis are given place. Calculus 1 and 2, and Differential Equation are the following prerequisites.
 
 ##### AC Circuit Analysis
-
+It is the continutation of study of electrified devices. This subject will analyze the Alternating Current Electricity of different devices. It is the same approch as the DC Circuit Analysis but with complex numbers. And it will add additional subjects about Triple Plahse Electricity Current and its Analysis.
 ##### Electronics Circuit Devices Analysis
+With the discovery of semiconductors, it created a vast inventions and technologies that helped us in the modern age. This subject with the fundamentals of Kirchoff's Laws will analyze the semiconductors, from diodes, transistors, op-amps, and how does it influence the frequency signals amplification, signal conversion and signal processing
 
 ##### Power Electronics Circuit Analysis
+The study of power electronics is the analysis of the power generation, distribution, and transmission of different electronics circuits and devices. This suubject will tackle the power circuit analysis of diodes, transistors, op-amps, DACs, and ADCs and the different converters used to convert two currents at once
 
 ##### Digital Principles and Logic Designs
-
+If the Electronics Circuit analyzes analog electronics, with a certain combinations of 
 ##### Fundamentals of Data Communications
 
 ##### Electronic Measurements and Instrumentation
